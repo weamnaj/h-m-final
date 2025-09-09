@@ -444,6 +444,7 @@ const ContactUs = () => {
               {t("contactPage.send")}
             </Button>
           </Form>
+          <h6>thank u</h6>
         </div>
       </Container>
     </section>
