@@ -342,7 +342,7 @@ export default function Footer() {
               </p>
               <p>
                 <a href="#" className="text-decoration-none ">
-                  مصر
+                  {t('egypt')}  
                 </a>
               </p>
             </Col>
